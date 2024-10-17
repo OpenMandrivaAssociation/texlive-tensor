@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset tensors
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tensor
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tensor
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tensor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tensor.doc.r%{version}.tar.xz
